@@ -8,6 +8,7 @@ I'm Youngho!
   My friends call me `robot`.  
   Because I don't express my emotions well.  
   But I'm NOT a _robot_!
+  ![](img/iamnotarobot.png)
 
 ## I'm interested in
 - OS

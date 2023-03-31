@@ -1,19 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+I'm Youngho!
 
 ## features
-- lazy evaluation
+- **lazy evaluation**  
+  I'm lazy. But I will do my job until deadline
+- **I'm not a 🤖**  
+  My friends call me `robot`.  
+  Because I don't express my emotions well.  
+  But I'm NOT a _robot_!
 
-<!--
-**cho0h5/cho0h5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm interested in
+- OS
+- Linux
+- System Programing
+- Robotics
+- C
+- Rust
+- Functional Programing
+- Haskell
+- Elixir

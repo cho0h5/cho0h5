@@ -2,7 +2,7 @@
 I'm Youngho!
 
 ## features
-- **lazy evaluation**  
+- [**lazy evaluation**](https://en.wikipedia.org/wiki/Lazy_evaluation)  
   I'm lazy. But I will do my job until deadline
 - **I'm not a 🤖**  
   My friends call me `robot`.  

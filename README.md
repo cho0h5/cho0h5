@@ -12,14 +12,19 @@ I'm Youngho!
 
 ## I'm interested in
 - OS
-- Linux 🐧
+- Linux 🐧 (favorite: Arch Linux)
+- zfs, btrfs
+- docker
 - System Programing
+- Embedded
+- Raspberry pi pico
 - Robotics 🤖
+- 3D Printing
 - C
 - Rust 😘
-- Functional Programing
 - Haskell 🤯
 - Elixir
 
 ## Look around!
 - [Gerraly](https://gerraly.cho0h5.org)
+- [unstructured log](https://blog.naver.com/cho0h5)

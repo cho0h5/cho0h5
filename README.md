@@ -31,3 +31,4 @@ I'm Youngho!
 
 ## monitoring
 ![cho0h5's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho0h5&show_icons=true&theme=nord)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho0h5)](https://solved.ac/cho0h5/)

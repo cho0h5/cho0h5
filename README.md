@@ -28,3 +28,6 @@ I'm Youngho!
 ## Look around!
 - [Gerraly](https://gerraly.cho0h5.org)
 - [unstructured log](https://blog.naver.com/cho0h5)
+
+## monitoring
+![cho0h5's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho0h5&show_icons=true&theme=nord)

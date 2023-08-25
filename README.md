@@ -29,6 +29,5 @@ I'm Youngho!
 - [Gerraly](https://gerraly.cho0h5.org)
 - [unstructured log](https://blog.naver.com/cho0h5)
 
-## monitoring
-![cho0h5's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho0h5&show_icons=true&theme=nord)
+## solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho0h5)](https://solved.ac/cho0h5/)

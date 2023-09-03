@@ -31,3 +31,4 @@ I'm Youngho!
 
 ## solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho0h5)](https://solved.ac/cho0h5/)
+![svg test](https://raw.githubusercontent.com/cho0h5/cho0h5/main/mdn.svg)

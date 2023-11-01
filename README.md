@@ -23,7 +23,6 @@ I'm Youngho!
 - C
 - Rust 😘
 - Haskell 🤯
-- Elixir
 
 ## Look around!
 - [Gerraly](https://gerraly.cho0h5.org)

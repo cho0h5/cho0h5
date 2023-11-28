@@ -27,6 +27,3 @@ I'm Youngho!
 ## Look around!
 - [Gerraly](https://gerraly.cho0h5.org)
 - [unstructured log](https://blog.naver.com/cho0h5)
-
-## solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho0h5)](https://solved.ac/cho0h5/)

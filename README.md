@@ -2,6 +2,7 @@
 I'm Youngho!
 
 ## features
+- I love computer. Specifically, I'm interested in low-level like kernel.
 - [**lazy evaluation**](https://en.wikipedia.org/wiki/Lazy_evaluation)  
   I'm lazy, because I do what I want to do.  
   But I will do my job until deadline!
@@ -12,19 +13,21 @@ I'm Youngho!
   ![](img/iamnotarobot.png)
 
 ## I'm interested in
-- OS
-- Linux 🐧 (favorite: Arch Linux)
-- zfs, btrfs
-- docker
-- System Programing
+- Linux 🐧
+  - favorite: Arch Linux
+  - zfs, btrfs
+  - docker
+- Vim
+  - I can't write code without vim 🤓
 - Embedded
-- Raspberry pi pico
+  - favorite chip: raspberry pi pico (well-documented and various feature)
 - Robotics 🤖
-- 3D Printing
-- C
-- Rust 😘
-- Haskell 🤯
+- Languages
+  - C (根本)
+  - Rust 😘 (Rust is perfect language)
+  - Haskell 🤯 (I want to be fluent in Haskell)
+  - Go (Goroutine is pretty cool)
 
 ## Look around!
-- [Gerraly](https://gerraly.cho0h5.org)
-- [unstructured log](https://blog.naver.com/cho0h5)
+- [Gerraly](https://cho0h5.github.io/gerraly/)
+- [naver blog](https://blog.naver.com/cho0h5)

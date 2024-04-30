@@ -14,7 +14,7 @@ I'm Youngho!
 
 ## I'm interested in
 - Linux 🐧
-  - favorite: Arch Linux
+  - favorite: Arch Linux, Fedora
   - zfs, btrfs
   - docker
 - Vim

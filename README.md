@@ -30,5 +30,5 @@ I'm Youngho!
 
 ## Look around!
 - [bong compiler](https://cho0h5.github.io/bong-compiler)
-- [naver blog](https://blog.naver.com/cho0h5)
 - [Gerraly](https://cho0h5.github.io/gerraly)
+- [naver blog](https://blog.naver.com/cho0h5)

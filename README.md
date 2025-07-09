@@ -3,9 +3,6 @@ I'm Youngho!
 
 ## features
 - I love computer. Specifically, I'm interested in low-level like kernel.
-- [**lazy evaluation**](https://en.wikipedia.org/wiki/Lazy_evaluation)  
-  I'm lazy, because I do what I want to do.  
-  But I will do my job until deadline!
 - **I'm not a 🤖**  
   My friends call me `robot`.  
   Because I don't express my emotions well.  

@@ -2,12 +2,16 @@
 I'm Youngho!
 
 ## features
-- I love computer. Specifically, I'm interested in low-level like kernel.
+- I love computer. Specifically, I'm interested in low-level.
 - **I'm not a 🤖**  
   My friends call me `robot`.  
   Because I don't express my emotions well.  
   But I'm NOT a _robot_!  
   ![](img/iamnotarobot.png)
+
+## Experience
+
+- **NAVER LABS** / System Engineer Internship (2025.09 ~ 2026.02)
 
 ## I'm interested in
 - Linux 🐧

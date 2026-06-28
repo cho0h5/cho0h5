@@ -16,19 +16,19 @@ I'm Youngho!
 
 ## I'm interested in
 - Linux 🐧
-  - favorite: Arch Linux, Fedora
+  - favorite: Arch Linux, Gentoo
   - zfs, btrfs
   - docker
+  - Buildroot, Yocto
 - Vim
   - I can't write code without vim 🤓
 - Embedded
-  - favorite chip: raspberry pi pico (well-documented and various feature)
+  - favorite chip: rp2040 (well-documented and various feature)
 - Robotics 🤖
 - Languages
-  - C (根本)
-  - Rust 😘 (Rust is perfect language)
-  - Haskell 🤯 (I want to be fluent in Haskell)
-  - Go (Goroutine is pretty cool)
+  - C
+  - Rust
+  - Go
 
 ## Look around!
 - [bong compiler](https://cho0h5.github.io/bong-compiler)

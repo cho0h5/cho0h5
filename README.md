@@ -11,7 +11,8 @@ I'm Youngho!
 
 ## Experience
 
-- **NAVER LABS** / System Engineer Internship (2025.09 ~ 2026.02)
+- **NAVER LABS** / Robot System Engineer Internship (2025.09 ~ 2026.02)
+- **ROBOTIS** / Humanoid OS System Engineer (2026.06 ~ Present)
 
 ## I'm interested in
 - Linux 🐧
